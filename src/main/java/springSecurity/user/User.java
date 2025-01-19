@@ -48,5 +48,5 @@ public class User implements UserDetails {
         return email;
     }
 
-    // get password
+    // todo: override getPassword and other methods if needs
 }
